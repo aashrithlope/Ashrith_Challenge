@@ -1,2 +1,0 @@
-[apache]
-server_ip ansible_ssh_user=username
